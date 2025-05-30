@@ -5,7 +5,7 @@ Flutter representation of a Travel App Concept i found in Uplabs.
 **It only consists of 2 screens.**
 
 Star⭐ the repo if you like what you see😉.
-
+    public function __construct($apiKey)
 
 Images are from [Unsplash](https://unsplash.com)
 ## 📸 ScreenShots
